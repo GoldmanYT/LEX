@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LEX</string>
+    <string name="top_text">Match words and learn new vocabulary</string>
+    <string name="guess">Word</string>
+    <string name="word1">Word 1</string>
+    <string name="word2">Word 2</string>
+    <string name="word3">Word 3</string>
+    <string name="word4">Word 4</string>
+    <string name="continue_text">Продолжить</string>
+</resources>
